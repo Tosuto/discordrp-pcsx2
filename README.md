@@ -20,5 +20,5 @@ Options:
 **discordrp-pcsx2** is still very early in development, so feel free to report any issues [here!](https://github.com/AnonGuy/discordrp-pcsx2/issues/new)
 
 ## Examples
-![image](https://i.imgur.com/y8n6H0E.png)
-![image](https://i.imgur.com/putKlq0.png)
+![image](https://i.imgur.com/clvQA9q.png)
+![image](https://i.imgur.com/56GT4VC.png)
