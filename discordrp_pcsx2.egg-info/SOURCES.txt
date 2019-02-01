@@ -1,0 +1,10 @@
+README.rst
+setup.py
+discordrp_pcsx2/__init__.py
+discordrp_pcsx2/utils.py
+discordrp_pcsx2.egg-info/PKG-INFO
+discordrp_pcsx2.egg-info/SOURCES.txt
+discordrp_pcsx2.egg-info/dependency_links.txt
+discordrp_pcsx2.egg-info/entry_points.txt
+discordrp_pcsx2.egg-info/requires.txt
+discordrp_pcsx2.egg-info/top_level.txt
