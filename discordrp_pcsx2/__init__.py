@@ -1,7 +1,7 @@
 """Discord Rich Presence support for PCSX2.
 
 Usage:
-    discordrp_pcsx2 [--path=<path>]
+    discordrp-pcsx2 [--path=<path>]
 
 Options:
     --path=<path> Path to your PCSX2 directory, optional.
