@@ -1,5 +1,5 @@
 # Discord Rich Presence for PCSX2
-
+[![Downloads](https://pepy.tech/badge/discordrp-pcsx2)](https://pepy.tech/project/discordrp-pcsx2)
 ## Installation: 
 ```bash
 pip install discordrp-pcsx2
