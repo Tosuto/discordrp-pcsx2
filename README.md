@@ -1,3 +1,6 @@
+**discordrp-pcsx2 is an archived project, as I no longer have the time to work on it.** <br>
+**Feel free to fork this project if you'd like to maintain it yourself.**
+
 # Discord Rich Presence for PCSX2
 [![Downloads](https://pepy.tech/badge/discordrp-pcsx2)](https://pepy.tech/project/discordrp-pcsx2)
 ## Installation: 
